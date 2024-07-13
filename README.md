@@ -39,7 +39,8 @@ Loads the trained model (model.pkl) and scaler (scaler.pkl).
 Provides a user interface to input features.
 Scales input features before making predictions.
 Displays the predicted house price.
-File Structure
+File Structure :
+
 Prasunet_ML_01/
 ├── app.py                     # Streamlit app script
 ├── House_Price_Prediction.ipynb   # Jupyter notebook for model training
